@@ -3,10 +3,11 @@ compares xml with option to ignore tags
 
 For Ignoring tags just create a ignoreXMLTags.txt on root folder of your application 
 and put tags names comma-serparated (,)
+
 ex:
  id,name,subjects
 
-Use dom-compare
+# Use dom-compare   [Credit -  https://www.npmjs.com/~olegas] 
 ===========
 
 [![Build Status](https://travis-ci.org/Olegas/dom-compare.png)](https://travis-ci.org/Olegas/dom-compare)
